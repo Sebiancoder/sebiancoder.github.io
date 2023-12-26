@@ -1,6 +1,6 @@
 # sebiancoder.github.io
 <div id="header" align="center">
-  <img src="https://github.com/Sebiancoder/Sebiancoder/blob/main/IMG_8423%20(1).jpg" width="100" border-radius="50"/>
+  <img src="https://github.com/Sebiancoder/Sebiancoder/blob/main/IMG_8423%20(1).jpg?raw=true" width="100" border-radius="50"/>
   <p>Hi there! 👋</p>
 </div>
 
